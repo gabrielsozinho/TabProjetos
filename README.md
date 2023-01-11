@@ -63,7 +63,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 
 <div id="extensoes"/>
 
-### Extenções
+### Extensões
 | Nome | Descrição | Navegadores | Repositório |
 |:----:|-----------|-------------|-------------|
 | Extensão para pesquisa | Facilita a busca de conteúdos do TabNews no Google. | Chrome/Firefox | [Karytonn/tabnews-google-search](https://github.com/Karytonn/tabnews-google-search)
