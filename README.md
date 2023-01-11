@@ -14,7 +14,40 @@ O repositório **NÃO** se trata de um repositório oficial do TabNews e os proj
 Caso você queira adicionar algum projeto, leia as instruções de acordo com o [CONTRIBUTING.md](/CONTRIBUTING.md) do repositório.
 
 
-## Projetos
+## 🖋 Projetos
+- [Sites](#sites)
+- [Aplicativos mobile](#mobile)
+- [Clientes CLI](#cli)
+- [Bibliotecas](#bibliotecas)
+- [Extensões](#extensoes)
+
+
+<div id="sites"/>
+
+### Sites
+| Nome | Descrição | Repositório | Link |
+|:----:|-----------|-------------|------|
+| **TabStats** | Obtenha informações de usuários do TabNews com o TabStats | [gabrielsozinho/TabStats](https://github.com/gabrielsozinho/TabStats/) | https://tabstats.ga |
+
+
+<div id="mobile"/>
+
+### Aplicativos mobile
+
+
+<div id="cli"/>
+
+### Clientes CLI
+
+
+<div id="bibliotecas"/>
+
+### Bibliotecas
+
+
+<div id="extensoes"/>
+
+### Extenções
 
 
 ## 📝 Licença
