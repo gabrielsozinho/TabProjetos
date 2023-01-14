@@ -49,7 +49,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 | TabNews CLI | Uma ferramenta de linha de comando para ler e publicar postagens no tabnews. | [vadolasi/tabnews-cli](https://github.com/vadolasi/tabnews-cli) |
 | Tab.py | Cliente CLI do TabNews feito em Python. | [Jetrom17/TabNews_Terminal](https://github.com/Jetrom17/TabNews_Terminal) |
 | tn-cli | Cliente CLI do TabNews feita em Go. | [cetorres/tn-cli](https://github.com/cetorres/tn-cli) |
-
+| tabshell-cli | Cliente CLI do TabNews feita em Go e Shell. | [Henriquetied472/tabshell-cli](https://github.com/Henriquetied472/tabshell-cli) |
 
 <div id="bibliotecas"/>
 
