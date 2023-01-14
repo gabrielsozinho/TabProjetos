@@ -20,6 +20,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 - [Clientes CLI](#cli)
 - [Bibliotecas](#bibliotecas)
 - [Extensões](#extensoes)
+- [Documentações](#documentacoes)
 
 
 <div id="sites"/>
@@ -69,6 +70,14 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 |:----:|-----------|-------------|-------------|
 | Extensão para pesquisa | Facilita a busca de conteúdos do TabNews no Google. | Chrome/Firefox | [Karytonn/tabnews-google-search](https://github.com/Karytonn/tabnews-google-search)
 
+
+<div id="documentacoes"/>
+
+### Documentações
+| Autor | Descrição | Link |
+|-------|-----------|------|
+| [coffee-is-power](https://github.com/coffee-is-power) | Documentação não-oficial da API do TabNews feita usando Redoc | [https://coffee-is-power.github.io/tabnews-openapi/](https://coffee-is-power.github.io/tabnews-openapi/) |
+| [gabrielsozinho](https://github.com/gabrielsozinho) | Documentação não-oficial da API do TabNews formatada com Markdown | [https://www.tabnews.com.br/GabrielSozinho/documentacao-da-api-do-tabnews](https://www.tabnews.com.br/GabrielSozinho/documentacao-da-api-do-tabnews) |
 
 ## 📝 Licença
 O repositório está sob licença GPL-3.0. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
