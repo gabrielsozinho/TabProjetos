@@ -7,7 +7,7 @@
 </div>
 
 ## 🧐 Sobre
-O repositório tem como objetivo agrupar o máximo de projetos que utilizam a API do TabNews e/ou ajudam (especificamente) os usuários do TabNews de alguma forma. 
+O repositório tem como objetivo agrupar o máximo de projetos que foram criados em decorrência da criação do TabNews. 
 
 O repositório **NÃO** se trata de um repositório oficial do TabNews e os projetos aqui listados não possuem garantia alguma de segurança, apesar de todos serem de código aberto.
 
@@ -78,8 +78,8 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 ### Documentações
 | Autor | Descrição | Link |
 |-------|-----------|------|
-| [coffee-is-power](https://github.com/coffee-is-power) | Documentação não-oficial da API do TabNews feita usando Redoc | [https://coffee-is-power.github.io/tabnews-openapi/](https://coffee-is-power.github.io/tabnews-openapi/) |
-| [gabrielsozinho](https://github.com/gabrielsozinho) | Documentação não-oficial da API do TabNews formatada com Markdown | [https://www.tabnews.com.br/GabrielSozinho/documentacao-da-api-do-tabnews](https://www.tabnews.com.br/GabrielSozinho/documentacao-da-api-do-tabnews) |
+| [coffee-is-power](https://github.com/coffee-is-power) | Documentação não-oficial da API do TabNews feita usando Redoc. | [https://coffee-is-power.github.io/tabnews-openapi/](https://coffee-is-power.github.io/tabnews-openapi/) |
+| [gabrielsozinho](https://github.com/gabrielsozinho) | Documentação não-oficial da API do TabNews formatada com Markdown. | [https://www.tabnews.com.br/GabrielSozinho/documentacao-da-api-do-tabnews](https://www.tabnews.com.br/GabrielSozinho/documentacao-da-api-do-tabnews) |
 
 ## 📝 Licença
 O repositório está sob licença GPL-3.0. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
