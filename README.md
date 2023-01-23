@@ -46,7 +46,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 ### Clientes CLI
 | Nome | Descrição | Repositório |
 |:----:|-----------|-------------|
-| CLliNews | Uma versão CLI do TabNews feita em Go. | [eduardo-moro/CliNews] |
+| CLiNews | Uma versão CLI do TabNews feita em Go. | [eduardo-moro/CliNews](https://github.com/eduardo-moro/CliNews) |
 | TabFast | Faça posts no TabNews pelo prompt de comando. | [cybernerd007/TabFast](https://github.com/cybernerd007/TabFast) |
 | TabNews CLI | Uma ferramenta de linha de comando para ler e publicar postagens no tabnews. | [vadolasi/tabnews-cli](https://github.com/vadolasi/tabnews-cli) |
 | Tab.py | Cliente CLI do TabNews feito em Python. | [Jetrom17/TabNews_Terminal](https://github.com/Jetrom17/TabNews_Terminal) |
@@ -70,7 +70,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 | Nome | Descrição | Navegadores | Repositório |
 |:----:|-----------|-------------|-------------|
 | Extensão para pesquisa | Facilita a busca de conteúdos do TabNews no Google. | Chrome/Firefox | [Karytonn/tabnews-google-search](https://github.com/Karytonn/tabnews-google-search) |
-| TabNews Save | Salve postagens do TabNews para ler mais tarde. | Chrome | [SilvanoGPM/tabnews-save](https://github.com/SilvanoGPM/tabnews-save) |
+| TabNews Save | Salve postagens do TabNews para ler mais tarde. | Chrome/Firefox | [SilvanoGPM/tabnews-save](https://github.com/SilvanoGPM/tabnews-save) |
 
 
 <div id="documentacoes"/>
