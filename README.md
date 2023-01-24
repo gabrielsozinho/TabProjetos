@@ -71,6 +71,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 |:----:|-----------|-------------|-------------|
 | Extensão para pesquisa | Facilita a busca de conteúdos do TabNews no Google. | Chrome/Firefox | [Karytonn/tabnews-google-search](https://github.com/Karytonn/tabnews-google-search) |
 | TabNews Save | Salve postagens do TabNews para ler mais tarde. | Chrome/Firefox | [SilvanoGPM/tabnews-save](https://github.com/SilvanoGPM/tabnews-save) |
+| TabNews Extensions | Um plugin para o Tampermonkey para permitir que você pesquise dentro de todo o TabNews, de forma rápida e prática. | Chrome/Firefox | [MrSev7en/tabnews-extensions](https://github.com/MrSev7en/tabnews-extensions)
 
 
 <div id="documentacoes"/>
