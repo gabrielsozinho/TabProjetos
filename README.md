@@ -59,6 +59,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 | Nome | Descrição | Repositório |
 |:----:|-----------|-------------|
 | TabNews.js | Biblioteca não-oficial do TabNews para JavaScript. | [33gustavo33/tabnews.js](https://github.com/33gustavo33/tabnews.js) |
+| TabNews Sdk | Biblioteca não-oficial do TabNews para JavaScript. | [leoferreiralima/tabnews-sdk](https://github.com/leoferreiralima/tabnews-sdk) |
 | TabNews.py | Biblioteca não-oficial do TabNews para Python. | [Gustavosta/TabNews.py](https://github.com/Gustavosta/TabNews.py) |
 | TabNews.ts | Biblioteca não-oficial do TabNews para TypeScript. | [miguel-l-b/tabnews.ts](https://github.com/miguel-l-b/tabnews.ts) |
 | TabNews-rs | Biblioteca não-oficial do TabNews para Rust. | [fadiinho/tabnews-rs](https://github.com/fadiinho/tabnews-rs) |
