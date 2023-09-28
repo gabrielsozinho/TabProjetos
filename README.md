@@ -28,7 +28,7 @@ Caso você queira adicionar algum projeto, leia as instruções de acordo com o 
 ### Sites
 | Nome | Descrição | Repositório | Link |
 |:----:|-----------|-------------|------|
-| **TabStats** | Obtenha informações de usuários do TabNews com o TabStats. | [gabrielsozinho/TabStats](https://github.com/gabrielsozinho/TabStats/) | https://tabstats.ga |
+| **TabStats** | Obtenha informações de usuários do TabNews com o TabStats. | [gabrielsozinho/TabStats](https://github.com/gabrielsozinho/TabStats/) | [https://tabstats.netlify.app](https://tabstats.netlify.app) |
 
 
 <div id="mobile"/>
