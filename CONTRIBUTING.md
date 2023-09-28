@@ -32,5 +32,5 @@ Caso você veja algum projeto que não está aqui na lista, ou se o projeto esti
 1. Para o projeto entrar ou continuar neste repositório, ele deve possuir um repositório no GitHub e o repositório deve estar Público.
 2. O projeto não deve conter nenhum tipo de sistema de phishing, malware, código ofuscado ou malicioso.
 3. A página do projeto sempre deve conter algo relacionado ao TabNews.
-4. O projeto está sujeito a ser removido permanentemente do repositório a qualquer momento sem aviso prévio, idependente da motivação. Principalmente caso descumpra alguma das regras acima.
+4. O projeto está sujeito a ser removido permanentemente do repositório a qualquer momento sem aviso prévio, independentemente da motivação. Principalmente caso descumpra alguma das regras acima.
 5. Ao criar uma issue ou Pull Request, você confirma que leu e concorda com as regras aqui citadas.
